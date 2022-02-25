@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[A prognostication for 1498]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1498</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69000</idno>
+            <idno type="STC">STC 385.3</idno>
+            <idno type="STC">ESTC S120404</idno>
+            <idno type="EEBO-CITATION">99855602</idno>
+            <idno type="PROQUEST">99855602</idno>
+            <idno type="VID">21102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1526:03, 1528:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[A prognostication for 1498]</title>
+               </titleStmt>
+               <extent>[2+] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Wynkyn de Worde,</publisher>
+                  <pubPlace>[Westminster :</pubPlace>
+                  <date>1498]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title and imprint from STC.</note>
+                  <note>Formerly STC 19327 and STC 20414. Probably translated from W. Parron--Cf. STC.</note>
+                  <note>Identified as STC 19327 on UMI microfilm reel 1526 and STC 20414 on UMI microfilm reel 1528.</note>
+                  <note>Imperfect; a fragment of two leaves.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>Appears at reel 1526 and at reel 1528 (both Bodleian Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prognostications">
+            <pb facs="tcp:21102:1" rendition="simple:additions"/>
+            <pb facs="tcp:21102:1"/>
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>ſeconde quarter happely ſhall a kyng take a Iourney out of his re<g ref="char:EOLunhyphen"/>alme / but yf he ſo do he ſhall not come home ayen for his enmye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kyngꝭ &amp; pryncꝭ this yere ſhall not be w<hi rend="sup">t</hi>out trouble &amp; heuyneſſe bycauſe of dyſcorde bytwene theym / &amp; alſo Inſurreccyon of they<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubgectes / wherefore it is good þ<hi rend="sup">t</hi> kyngꝭ &amp; pryncꝭ kepe they<g ref="char:cmbAbbrStroke">̄</g> wyſe from the co<g ref="char:cmbAbbrStroke">̄</g>mune people &amp; from poyſons &amp; other perylles / nor <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall not be good for theym to moue warre the fyrſt .iij. quarter<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the yere / nor yet to moue warre by theyr men from þ<hi rend="sup">e</hi> mydde <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Auguſt to the .xx. day of Octobre / but yf warre be moued ayen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theym lete theym reſyſte it by prouyſyon &amp; dyfferre it &amp; þ<hi rend="sup">t</hi> ſhal <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſt / but in concluſyon the kyngꝭ &amp; prynces ſhall ſubdue theyr a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>uerſaryes as ſayd the laſt yere in my pronoſtycaco<g ref="char:cmbAbbrStroke">̄</g>ns / wherby <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cornyſhmen yf they had ben wyſe myght haue ben ware.</p>
+            <p>¶ It ſholde ſeme by the reuolucyon of the yere þ<hi rend="sup">t</hi> kynges ſho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> take Iourneys to fyght ayenſt theyr enmyes / but lete they<g ref="char:cmbAbbrStroke">̄</g> bew<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of perylles &amp; ſykneſſes &amp; other ſuche hurtes &amp; Ieopardyes.</p>
+            <p>¶ The kyng of Englond this yere ſhall ouercome his enmye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <g ref="char:punc">▪</g> ſhalbe exalted &amp; fortunate w<hi rend="sup">t</hi> his childern / he ſhalbe this yere d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>poſed to ryde about his realme to ſporte hym &amp; to ouerſee &amp; o<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his realme / in whiche Iourney a knyght or one apte to the wa<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a man of grete ſtrength &amp; a ſeruau<g ref="char:cmbAbbrStroke">̄</g>t of the kyngꝭ court ſhall <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Englonde ſhall not be without ſykneſſes &amp; peſtylences / march<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tes of Englonde ſhall proſpere &amp; haue wynnynge.</p>
+            <p>¶ The prynce Arthure this yere ſhal proſpere &amp; encreace his <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtau<g ref="char:cmbAbbrStroke">̄</g>ce &amp; honour. My lorde Herry duke of Yorke / &amp; my lady M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>garete his ſyſter the whiche ſhall after this be a quene or elles <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ue ſome grete honour ſhall this yere be hole &amp; fornunate.</p>
+            <p>¶ The kyng of Frau<g ref="char:cmbAbbrStroke">̄</g>ce ſhal this yere abyde in his realme &amp; <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not go out at leſt but by a lytell Iourney / yf he do he ſhall o<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>come his enmyes. But it ſhalbe good for hym to kepe good d<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the .iij. quarter &amp; afore leſt he haue ſykneſſes / he ſhalbe loue<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his ſubgectes / but it is to be doubted þ<hi rend="sup">t</hi> one grete man ſhall n<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Inſurreccyon ayenſt hym / he ſhall ſpende his ſubſtau<g ref="char:cmbAbbrStroke">̄</g>ce by <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ryours &amp; by fyre. A ſcrybe or a wyſe phyloſophre &amp; a woma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the kynges blood ſhall deye. The realme of Frau<g ref="char:cmbAbbrStroke">̄</g>ce ſhall n<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb facs="tcp:21102:2" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout dyſcorde &amp; ſykneſſes. ¶ The kyng of Spayne this yere <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>albe in helth &amp; proſperyte / &amp; his lordes &amp; helpers ſhalbe exalted <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ſome ſhall vary from his mynde / þ<hi rend="sup">e</hi> whiche ſhalbe punyſſhed <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Inpryſonement / he ſhal not be moche troubled w<hi rend="sup">t</hi> warre this ye <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but they þ<hi rend="sup">t</hi> be his enmyes ſhall departe w<hi rend="sup">t</hi> worde w<hi rend="sup">t</hi>out batayll / <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> payne ſhall not be w<hi rend="sup">t</hi>out ſykneſſes &amp; deth / &amp; in the .ij. quarter <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cy ſhal haue ſtryf wherby ſome ſhalbe Inpryſoned or els deye.</p>
+            <p>
+               <g ref="char:punc">▪</g> The kyng of Romayns this yere ſhalbe moued w<hi rend="sup">t</hi> warre &amp; his <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>des &amp; helpers ſhalbe vexed w<hi rend="sup">t</hi> ſykneſſes / &amp; they ſhall not be all <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to hy<g ref="char:cmbAbbrStroke">̄</g> &amp; his ſubſtau<g ref="char:cmbAbbrStroke">̄</g>ce ſhalbe conſumed by warryours / wherſo <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>it ſhalbe good for hym to beware of his enmyes of poyſons &amp; <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all euyll gydynge / for it is to be fered leſt ſome Infortune hap <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hy<g ref="char:cmbAbbrStroke">̄</g> &amp; alſo by ſykneſſe. The tyme of greteſt peryll ſhalbe in þ<hi rend="sup">e</hi> 
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt &amp; the .iij. quarter to tell þ<hi rend="sup">e</hi> day &amp; houre were harde w<hi rend="sup">t</hi>out grete <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>our / but wyſe men wyll walke ſurely by þ<hi rend="sup">e</hi> waye. ¶ The kyng <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scottꝭ this yere ſhalbe in peryll of hote ſykneſſes or els venym <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> els ſome other euyl accydent / wherfor late hy<g ref="char:cmbAbbrStroke">̄</g> beware in þ<hi rend="sup">e</hi> fyrſt <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>arter / his helpers nor his ſubſtau<g ref="char:cmbAbbrStroke">̄</g>ce ſhall not proſpere. ¶ The <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke of Burgoyne ſhalbe heuy this yere &amp; ſhall haue a ſykneſſe / <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>erfore lete hy<g ref="char:cmbAbbrStroke">̄</g> &amp; his cou<g ref="char:cmbAbbrStroke">̄</g>ſeyll take hede / þ<hi rend="sup">t</hi> tyme of greteſt peryll <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lbe in the .ij. quarter. Flau<g ref="char:cmbAbbrStroke">̄</g>dres ſhal not proſpere for dyuerſe in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tunes as dyſcorde batayl ſykneſſes deth effuſyon of blood &amp; fyre <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gouernours of cytees this yere ſhall do metely well / but lete <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y<g ref="char:cmbAbbrStroke">̄</g> beware of dyſcordes ſykneſſes &amp; Inpryſonementes &amp; deth / &amp; <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nely in the .ij. quarter &amp; more in the weſt partyes than in theſt <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tyes. As for men ſubget to the .xij. ſygnes Iouerpaſſe / who luſt <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee they<g ref="char:cmbAbbrStroke">̄</g> he may haue recours to þ<hi rend="sup">e</hi> latyn boke. Of men ſubget <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e .vij. planetes &amp; fyrſt to Saturne. Saturnꝰ as be relygyous <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> clothed w<hi rend="sup">t</hi> black habytes wyſe phyloſophres &amp; dyuynes / olde <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fullers &amp; vyle men namely excercyſynge themſelf in water <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this yere do metely well / lete they<g ref="char:cmbAbbrStroke">̄</g> beware of ſykneſſes in a <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>all in the .iij. qarter. Ionyals as cardynals byſſhops &amp; other <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>atꝭ. Cou<g ref="char:cmbAbbrStroke">̄</g>ſeyllours of kyngꝭ canonyſtes lawyers nobles &amp; go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ours of cytees ſhal do as is aforſayd of gouernours of cytees <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>cyalles as be dukes captayns &amp; ſoudyers &amp; counſeyllours of</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb facs="tcp:21102:2"/>
+            <p>¶ Iule ſhalbe temperate ynough after his nature / but about the begynnynge ſhalbe grete raynes &amp; wynde w<hi rend="sup">t</hi> hayle thond<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> &amp; lyght<g ref="char:EOLunhyphen"/>nynge / &amp; namely about the .iij. daye / dayes of alteraco<g ref="char:cmbAbbrStroke">̄</g>n after þ<hi rend="sup">e</hi> be<g ref="char:EOLunhyphen"/>gynnynge ſhalbe .viij. x. xiij. xvi. xix. xx. xxij. xxiij. xxvij. xxix. xxx.</p>
+            <p>¶ Auguſt ſhalbe temperate ynough after his nature / but in the fyrſt thyrde partye ſhalbe grete raynes &amp; wyndes with thonder and hayle / but in the other two partyes it ſhall alter / dayes of al<g ref="char:EOLhyphen"/>teracyon. xiij. xiiij. xvij. xx. xxiij. xxvi.</p>
+            <p>¶ Septembre ſhalbe wyndy &amp; rayny tempeſtuous with thonder and lyghtnynge / dayes of alteracyon .ij. v. vi. ix. xij. xv. xvi. xix. xx. xxij. xxvi. xxvij. xxviij. xxix. xxx.</p>
+            <p>¶ Octobre ſhalbe accordynge to his nature fro the .iij. daye &amp; the .vi. daye to the .xvij. and in the .xx. xxij. and .xxiij. daye ſhabe ray<g ref="char:EOLhyphen"/>ne colde &amp; wynde &amp; mooſt about the .xxviij. daye afore &amp; after.</p>
+            <p>¶ Nouembre ſhalbe very rayny &amp; tempeſtuous with grete chau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>gynge of the ayer with rayne &amp; wynde &amp; happly ſnowe.</p>
+            <p>¶ Decembre ſhalbe colde wyndy rayny &amp; ſnowy / dayes of alte<g ref="char:EOLhyphen"/>raco<g ref="char:cmbAbbrStroke">̄</g>n .ij. iij. vi. vij. ix. x. xiij. xvi. xvij. xviij. xxi. xxv. xxvi. xxviij. xxxi.</p>
+            <p>¶ Ianuary ſhalbe very colde w<hi rend="sup">t</hi> ſtronge wynde rayne &amp; ſnowe.</p>
+            <p>¶ February ſhalbe moche lyke Ianuary / it is here to be noted þ<hi rend="sup">t</hi> þ<hi rend="sup">e</hi> days of alteraco<g ref="char:cmbAbbrStroke">̄</g>n ſhall not be taken þ<hi rend="sup">e</hi> ſame ſelf day / for ſomty<g ref="char:EOLunhyphen"/>me it ſhalbe in þ<hi rend="sup">e</hi> nyght before or after / &amp; alſo it may not be lyke in all places for þ<hi rend="sup">e</hi> dyuerſyte of the clymate / it appereth by þ<hi rend="sup">t</hi> is afor<g ref="char:EOLhyphen"/>ſayd þ<hi rend="sup">t</hi> it ſhalbe Ieopardous ſeylynge on þ<hi rend="sup">t</hi> ſee / wherfore late ſhyp<g ref="char:EOLunhyphen"/>men &amp; marchau<g ref="char:cmbAbbrStroke">̄</g>tes beware / fyrſt ſhall blowe the eſt wynde after ſouth &amp; then north &amp; after weſt then eſt &amp; by ſouth &amp; then ſouth<g ref="char:EOLhyphen"/>weſt then eſt &amp; by north &amp; laſt northweſt ſhall mooſt blowe / this yere ſholde ſeme to be erthequakes in wynter &amp; name in Ianuary and February / wherfore I conclude þ<hi rend="sup">t</hi> this yere ſhalbe plentuous ynough of ſuche thynges as growe on þ<hi rend="sup">e</hi> erthe / but in ſome places of tempeſt &amp; corrupcyon of the ayer the fruyte ſhalbe hurte.</p>
+            <p>¶ Sonnes childern &amp; meſſengers ſhall not do well this yere for ſykneſſes &amp; other infortunes. This yere ſhalbe many ſykneſſes / as feuers contynuall &amp; tercyans peſtylence bledynge at noſe pay<g ref="char:EOLunhyphen"/>nes of the heed the eyes the bely &amp; many bytwene þ<hi rend="sup">e</hi> ſkynne &amp; the
+<pb facs="tcp:21102:3"/>fleſſhe carbuncles pokes ſcabbes &amp; ſuche / but ther ſhall not many men deye therof in comparyſon of ſo many &amp; dyuerſe ſykneſſes / but yonge folke &amp; very aged ſhalbe mooſt vexed &amp; mooſt wy<g ref="char:cmbAbbrStroke">̄</g>men As for the pockes &amp; the cure of they<g ref="char:cmbAbbrStroke">̄</g> who luſt to rede / lete they<g ref="char:cmbAbbrStroke">̄</g> ſee the latyn boke of this yere &amp; the laſt &amp; there he ſhall fynde þ<hi rend="sup">t</hi> may contente his mynde. Seruau<g ref="char:cmbAbbrStroke">̄</g>tes this yere both men &amp; wy<g ref="char:cmbAbbrStroke">̄</g>men ſhal not proſpere bycauſe of ſykneſſes / &amp; ſhall not well do theyr dew<g ref="char:EOLhyphen"/>tees to theyr mayſters for pryde / &amp; many ſhall departe fro theyr mayſter. Smale beſtes as ſheep gootꝭ hogges &amp; ſuche other ſhall haue ſykneſſes &amp; ſhal deye / wherfore it ſhalbe holſom to ete wylde ſoule. Wy<g ref="char:cmbAbbrStroke">̄</g>men this yere ſhall haue many ſykneſſes / wy<g ref="char:cmbAbbrStroke">̄</g>men with childe ſhalbe in peryll / weddynge ſhalbe w<hi rend="sup">t</hi> grete ſtryfe &amp; falſhede &amp; many ſhal make two co<g ref="char:cmbAbbrStroke">̄</g>tractes &amp; namely in þ<hi rend="sup">e</hi> two myddel quar<g ref="char:EOLunhyphen"/>ters. Felowes ſhall vſe ſotyltee &amp; falſhede. This yere ſhalbe more dyſpoſed to ſtryf bytwene kynges &amp; theyr ſubgectes than þ<hi rend="sup">e</hi> laſt &amp; the .v. daye of Septe<g ref="char:cmbAbbrStroke">̄</g>ber ſhalbe ſome grete peryll of erthe quake ſtryf or fyrynge / &amp; the .ij. day of Noue<g ref="char:cmbAbbrStroke">̄</g>bre / &amp; the .xxxi. day of Dece<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ber / the .xxx. day of Ianuary &amp; the .xxviij. day of February late they<g ref="char:cmbAbbrStroke">̄</g> beware þ<hi rend="sup">t</hi> make inſurreccyons ayenſt the prynce / for they ſhall ha<g ref="char:EOLunhyphen"/>ue the werſe. The tyme that men ſhalbe mooſt dyſpoſed to ſtryf &amp; fyghtynge ſhalbe the .x. &amp; the .xxiiij. day of Apryll or there about / &amp; after the myddes of May &amp; the begynnynge of Iune &amp; Iuly &amp; after þ<hi rend="sup">e</hi> myddes of Auguſt &amp; afore thende of Septembre &amp; about the begynnynge &amp; thende of Nouembre. Yf ther be ony deth this yere of men or beſtes it ſhall not be vnyuerſall &amp; namely of men but by the ſwerde / ſodeyne deth &amp; peſtylence ſhall men deye / &amp; a kyng or elles ſome noble prynce ſhall this yere deye / &amp; a man &amp; a woman of grete fame &amp; rycheſſe ſhall this yere deye. Nourſes &amp; handmaydens of kyngꝭ ſhalbe in peryll. Herytages &amp; goodes of deed men ſhalbe Iuſtly admynyſtred. The cryſten fayth ſhalbe ho<g ref="char:EOLunhyphen"/>noured this yere. but as for ſcyence &amp; wyſedom ſhalbe les honoured They þ<hi rend="sup">t</hi> make longe Iourneys &amp; pylgryms ſhall do metely well / but ſome ſhalbe vexed w<hi rend="sup">t</hi> colde ſykneſſes &amp; of theyr enmyes ſo þ<hi rend="sup">t</hi> they ſhall neuer come home ayen. This yere ſhal not be good for kyngꝭ to make longe Iourneys in þ<hi rend="sup">e</hi> fyrſt &amp; ſeconde quarter / in the</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb facs="tcp:21102:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
